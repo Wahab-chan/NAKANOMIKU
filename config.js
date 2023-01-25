@@ -45,18 +45,18 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6282229217681', 'Inory&Wahab-MD', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorbot = '6282229217681'
+global.nameown = 'Ela1naModz'
+global.nomorown = '6282229217681'
+global.nomorown1 = '6282229217681'
+global.nomorown2 = '6282229217681'
 global.nomorwa = '0'
 global.limitawal = {
 
@@ -69,34 +69,34 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.author = 'Ela1naModz' //ganti aja cuyyy
+global.namebot = '1nory&Wahab-Md' //nama bot luh
+global.wm = '© 1nory&Wahab-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = '1nory&Wahab-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa 
+global.wm2 = 'Ela1naModz' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //gantu aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `1nory&Wahab-Md | Ela1naModz` //gantu aja
+global.stickpack = 'Ela1na-Modz' //ganti 
+global.stickauth = `© Ela1na-Md` //gantii 
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= '1nory&Wahab atarianus' //ganti 
+global.nameown2 = 'Ela1naModz' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
+global.sig = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' //ganti jadi ig mu
+global.sgh = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' //github
+global.sgc = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' //group whatsapp
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
+global.snh = 'https://chat.whatsapp.com/IGVfMjqdUtpBn2bnmttFDb' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = 'Chat Owner !!'
@@ -105,12 +105,12 @@ global.pgopay = 'Chat owner !!'
 global.plinkaja = '-' //link aja
 global.ppulsa = 'Chat owner !!'
 global.ppulsa2 = 'Chat owner !!'
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
+global.psaweria = 'Chat owner !!'
 
 //bebas cuyyy yg atas mahh 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 7 Hari IDR 5.000\n├ 20 Hari IDR 8.000\n├ 30 Hari IDR 10.000\n├ PERMANEN IDR 15.000'
+global.ListHargaSewa = '├ 7 Hari IDR 5.000\n├ 20 Hari IDR 10.000\n├ 30 Hari IDR 15.000\n├ PERMANEN IDR 33.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -534,9 +534,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.facebook.com/profile.php?id=100083728134253"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
+global.phn = '0822 2921-7681'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
