@@ -12,7 +12,7 @@ let stiker = await sticker(null, global.API(`${pickRandom(stikerhuuu)}`), global
           showAdAttribution: true,
     mediaUrl: sgc,
     mediaType: 2,
-    description: '𝐀𝐫𝐢𝐟𝐳𝐲𝐧 𝑿 𝐒𝐤𝐲𝐁𝗼𝐭', 
+    description: 'Zerobot 𝑿 ELA1NA', 
     title: 'Hai, ' + name + ' ' + ucapan,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),

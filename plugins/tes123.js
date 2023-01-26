@@ -6,13 +6,13 @@ conn.send2ButtonDoc(m.chat, 'Aktif !!', botdate, '𝐋𝐢𝐬𝐭𝐌𝐞𝐧�
 			contextInfo: {
 				forwardingScore: fsizedoc,
 				externalAdReply: {
-                    body: '© 𝐒𝐤𝐲𝐁𝗼𝐭',
+                    body: '© ZeroBotz',
     containsAutoReply: true,
     mediaType: 1,
     mediaUrl: hwaifu.getRandom(), 
     renderLargerThumbnail: true,
     showAdAttribution: true,
-    sourceId: '© 𝐒𝐤𝐲𝐁𝗼𝐭',
+    sourceId: '© ZeroBotz',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: sgc,
